@@ -1,0 +1,24 @@
+body {
+    background-color: #f8f9fa;
+}
+.shortener-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 30px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+.result-container {
+    display: none;
+    margin-top: 20px;
+}
+.copy-btn {
+    cursor: pointer;
+}
+.me-2 {
+    padding-left: 10px;
+    color: #0a3622;
+    text-decoration: None;
+    font-size: 17px;
+}
