@@ -21,8 +21,8 @@ Um serviço de encurtamento de URLs desenvolvido com Flask e MongoDB, permitindo
 ## Configuração do ambiente
 ### 1) Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/encurtador-url.git
-cd encurtador-url
+git clone https://github.com/LuisMig-code/url-shortener.git
+cd url-shortener
 ```
 
 ### 2) Crie e ative um ambiente virtual (opcional mas recomendado):
